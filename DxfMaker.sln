@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DxfMaker", "DxfMaker.csproj", "{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}.Debug|x86.ActiveCfg = Debug|x86
+		{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}.Debug|x86.Build.0 = Debug|x86
+		{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}.Release|x86.ActiveCfg = Release|x86
+		{284C6BDF-C8CE-415A-BE6D-262BB7D4FBDF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE94C99-BF78-404D-B95E-35767ADC1E4A}
+	EndGlobalSection
+EndGlobal
